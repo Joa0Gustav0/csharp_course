@@ -1,0 +1,15 @@
+C:\Users\guga6\OneDrive\Documentos\studies\csharp_course\first_impressions\bin\Debug\net7.0\first_impressions.exe
+C:\Users\guga6\OneDrive\Documentos\studies\csharp_course\first_impressions\bin\Debug\net7.0\first_impressions.deps.json
+C:\Users\guga6\OneDrive\Documentos\studies\csharp_course\first_impressions\bin\Debug\net7.0\first_impressions.runtimeconfig.json
+C:\Users\guga6\OneDrive\Documentos\studies\csharp_course\first_impressions\bin\Debug\net7.0\first_impressions.dll
+C:\Users\guga6\OneDrive\Documentos\studies\csharp_course\first_impressions\bin\Debug\net7.0\first_impressions.pdb
+C:\Users\guga6\OneDrive\Documentos\studies\csharp_course\first_impressions\obj\Debug\net7.0\first_impressions.csproj.AssemblyReference.cache
+C:\Users\guga6\OneDrive\Documentos\studies\csharp_course\first_impressions\obj\Debug\net7.0\first_impressions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guga6\OneDrive\Documentos\studies\csharp_course\first_impressions\obj\Debug\net7.0\first_impressions.AssemblyInfoInputs.cache
+C:\Users\guga6\OneDrive\Documentos\studies\csharp_course\first_impressions\obj\Debug\net7.0\first_impressions.AssemblyInfo.cs
+C:\Users\guga6\OneDrive\Documentos\studies\csharp_course\first_impressions\obj\Debug\net7.0\first_impressions.csproj.CoreCompileInputs.cache
+C:\Users\guga6\OneDrive\Documentos\studies\csharp_course\first_impressions\obj\Debug\net7.0\first_impressions.dll
+C:\Users\guga6\OneDrive\Documentos\studies\csharp_course\first_impressions\obj\Debug\net7.0\refint\first_impressions.dll
+C:\Users\guga6\OneDrive\Documentos\studies\csharp_course\first_impressions\obj\Debug\net7.0\first_impressions.pdb
+C:\Users\guga6\OneDrive\Documentos\studies\csharp_course\first_impressions\obj\Debug\net7.0\first_impressions.genruntimeconfig.cache
+C:\Users\guga6\OneDrive\Documentos\studies\csharp_course\first_impressions\obj\Debug\net7.0\ref\first_impressions.dll

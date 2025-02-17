@@ -1,0 +1,15 @@
+C:\Users\guga6\OneDrive\Documentos\studies\csharp_course\nested_loops\bin\Debug\net7.0\nested_loops.exe
+C:\Users\guga6\OneDrive\Documentos\studies\csharp_course\nested_loops\bin\Debug\net7.0\nested_loops.deps.json
+C:\Users\guga6\OneDrive\Documentos\studies\csharp_course\nested_loops\bin\Debug\net7.0\nested_loops.runtimeconfig.json
+C:\Users\guga6\OneDrive\Documentos\studies\csharp_course\nested_loops\bin\Debug\net7.0\nested_loops.dll
+C:\Users\guga6\OneDrive\Documentos\studies\csharp_course\nested_loops\bin\Debug\net7.0\nested_loops.pdb
+C:\Users\guga6\OneDrive\Documentos\studies\csharp_course\nested_loops\obj\Debug\net7.0\nested_loops.csproj.AssemblyReference.cache
+C:\Users\guga6\OneDrive\Documentos\studies\csharp_course\nested_loops\obj\Debug\net7.0\nested_loops.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guga6\OneDrive\Documentos\studies\csharp_course\nested_loops\obj\Debug\net7.0\nested_loops.AssemblyInfoInputs.cache
+C:\Users\guga6\OneDrive\Documentos\studies\csharp_course\nested_loops\obj\Debug\net7.0\nested_loops.AssemblyInfo.cs
+C:\Users\guga6\OneDrive\Documentos\studies\csharp_course\nested_loops\obj\Debug\net7.0\nested_loops.csproj.CoreCompileInputs.cache
+C:\Users\guga6\OneDrive\Documentos\studies\csharp_course\nested_loops\obj\Debug\net7.0\nested_loops.dll
+C:\Users\guga6\OneDrive\Documentos\studies\csharp_course\nested_loops\obj\Debug\net7.0\refint\nested_loops.dll
+C:\Users\guga6\OneDrive\Documentos\studies\csharp_course\nested_loops\obj\Debug\net7.0\nested_loops.pdb
+C:\Users\guga6\OneDrive\Documentos\studies\csharp_course\nested_loops\obj\Debug\net7.0\nested_loops.genruntimeconfig.cache
+C:\Users\guga6\OneDrive\Documentos\studies\csharp_course\nested_loops\obj\Debug\net7.0\ref\nested_loops.dll
