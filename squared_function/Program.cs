@@ -42,7 +42,7 @@ void constructSqrFunctionChart() {
     grid[gridLength - 1 - y][x] = "#";
     printGrid();
     Console.Beep();
-    Thread.Sleep(25);
+    Thread.Sleep(10);
     Console.Clear();
   }
 }
